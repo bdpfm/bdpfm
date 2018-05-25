@@ -1,16 +1,24 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
+  lsd:
+    image_url: /images/actors/lsd.jpg
+    name: lsd
+    url: https://twitter.com/lsd_jp
+  gema:
+    image_url: /images/actors/gema.jpg
+    name: gema
+    url: https://twitter.com/___35d
+  aruru:
+    image_url: /images/actors/bob.png
+    name: aruru
+    url: http://sns.example.com/bob
+  coco:
     image_url: /images/actors/bob.png
     name: bob
     url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+author: gema
+description: bdp.fm
+description_long: bdp.fm
+email: bdpfm@bizreach.co.jp
 exclude:
   - docker
   - docker-compose.yml
@@ -29,5 +37,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
+title: bdp.fm
 url: http://example.com
