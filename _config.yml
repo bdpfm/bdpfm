@@ -8,11 +8,11 @@ actors:
     name: gema
     url: https://twitter.com/___35d
   aruru:
-    image_url: /images/actors/bob.png
+    image_url: /images/actors/aruru.jpg
     name: aruru
     url: http://sns.example.com/bob
   coco:
-    image_url: /images/actors/bob.png
+    image_url: /images/actors/coco.jpg
     name: bob
     url: http://sns.example.com/bob
 author: gema
