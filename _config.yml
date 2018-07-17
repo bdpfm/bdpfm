@@ -16,8 +16,8 @@ actors:
     name: bob
     url: http://sns.example.com/bob
 author: gema
-description: bdp.fm
-description_long: bdp.fm
+description: bdpfm
+description_long: bdpfm
 email: bdpfm@bizreach.co.jp
 exclude:
   - docker
@@ -37,5 +37,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: bdp.fm
+title: bdpfm
 url: http://example.com
