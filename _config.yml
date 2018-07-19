@@ -1,11 +1,11 @@
 actors:
   lsd:
     image_url: /images/actors/lsd.jpg
-    name: lsd
+    name: 川上
     url: https://twitter.com/lsd_jp
   gema:
     image_url: /images/actors/gema.jpg
-    name: gema
+    name: 円谷
     url: https://twitter.com/___35d
   aruru:
     image_url: /images/actors/aruru.jpg
@@ -13,11 +13,11 @@ actors:
     url: http://sns.example.com/bob
   coco:
     image_url: /images/actors/coco.jpg
-    name: bob
+    name: 古後
     url: http://sns.example.com/bob
-author: gema
-description: bdpfm
-description_long: bdpfm
+author: bdpfm
+description: 株式会社ビズリーチのデザイナーが最近気になっていることを喋りまくる、ながら聞き推奨Podcastです。
+description_long: 株式会社ビズリーチのデザイナーが最近気になっていることを喋りまくる、ながら聞き推奨Podcastです。
 email: bdpfm@bizreach.co.jp
 exclude:
   - docker
@@ -38,4 +38,4 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: bdpfm
-url: http://example.com
+url: http://bdpfm.jp/
