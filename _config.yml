@@ -28,9 +28,9 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
-itunes_podcast_url:
-keywords: comma,separated,keywords
+hashtag: bfpfm
+itunes_podcast_url: 
+keywords: bfpfm
 language: ja
 markdown: kramdown
 permalink: /episode/:title
